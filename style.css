@@ -38,11 +38,11 @@ header {
     gap: 2rem;
 }*/
 
-.info__img {
+.main__img {
     margin-top: -2rem;
 }
 
-.info__box {
+.main__box {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -57,24 +57,24 @@ header {
     box-shadow: 0px 4px 100px rgba(0, 0, 0, 0.1);
 }
 
-.info__title {
+.main__title {
     width: 32rem;
     font-family: 'Merriweather';
     font-size: 2.5rem;
     line-height: 3rem;
 }
 
-.info__span {
+.main__span {
     color: #f78065;
 }
 
-.info__subtitle {
+.main__subtitle {
     font-family: 'montserrat';
     line-height: 1.5rem;
     opacity: 0.6;
 }
 
-.info__button {
+.main__button {
     display: flex;
     align-items: center;
     gap: 0.5rem;
@@ -88,6 +88,6 @@ header {
     border: none;
 }
 
-.info__button--img {
+.main__button--img {
     margin-left: 4rem;
 }
