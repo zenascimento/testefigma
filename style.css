@@ -42,7 +42,7 @@ header {
     margin-top: -2rem;
 }
 
-.info__background {
+.info__box {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
